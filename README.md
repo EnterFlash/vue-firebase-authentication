@@ -1,9 +1,9 @@
 # Build a real time chat with Vue and Firebase Firestore
 
 ## Link to the Youtube tutorial in my channel
-English: [![youtu.be/LTmqDqwnw1Y](https://img.youtube.com/vi/LTmqDqwnw1Y/0.jpg)](https://www.youtube.com/watch?v=LTmqDqwnw1Y){:target="_blank"}
+English: [![youtu.be/LTmqDqwnw1Y](https://img.youtube.com/vi/LTmqDqwnw1Y/0.jpg)](https://www.youtube.com/watch?v=LTmqDqwnw1Y)
 
-Spanish: [![youtu.be/GQFfoM4JRgM](https://img.youtube.com/vi/GQFfoM4JRgM/0.jpg)](https://www.youtube.com/watch?v=GQFfoM4JRgM){:target="_blank"}
+Spanish: [![youtu.be/GQFfoM4JRgM](https://img.youtube.com/vi/GQFfoM4JRgM/0.jpg)](https://www.youtube.com/watch?v=GQFfoM4JRgM)
 
 
 ## Project setup
